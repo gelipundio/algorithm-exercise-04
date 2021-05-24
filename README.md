@@ -1,4 +1,4 @@
-# algorithm-exercise-04# 
+# Be quick!
 
 Find the number, but be quick!
 
