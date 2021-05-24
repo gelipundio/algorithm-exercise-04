@@ -1,0 +1,23 @@
+{
+  "name": "algorithm-exercise-04",
+  "version": "1.0.0",
+  "description": "be quick!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gelipundio/algorithm-exercise-4.git"
+  },
+  "author": "fndefunction",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gelipundio/algorithm-exercise-04/issues"
+  },
+  "homepage": "https://github.com/gelipundio/algorithm-exercise-04#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  }
+}
